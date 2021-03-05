@@ -1,0 +1,3 @@
+@echo off
+echo killing vbs scripts...
+taskkill /F /IM wscript.exe /T
