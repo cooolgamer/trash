@@ -1514,66 +1514,6 @@
 				"agePrerollVideo": ""
 			}
 		},
-		{
-			"setNode": {
-				"id": "episode:harumaki23",
-				"version": "649f671be9bd0e2bf9fa18d73de07d57",
-				"type": "episode",
-				"number": 23,
-				"ageRate": 0,
-				"title": "Mikage's Diary",
-				"description": "",
-				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Mikage%27s%20Diary.moflex",
-					"fr": ""
-				},
-				"viewCount": 111,
-				"imageUrls": {
-					"default": ""
-				},
-				"agePrerollVideo": ""
-			}
-		},
-		{
-			"setNode": {
-				"id": "episode:harumaki24",
-				"version": "649f671be9bd0e2bf9fa18d73de07d57",
-				"type": "episode",
-				"number": 24,
-				"ageRate": 0,
-				"title": "Diner Bell",
-				"description": "",
-				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/Dinner%20Bell.moflex",
-					"fr": ""
-				},
-				"viewCount": 111,
-				"imageUrls": {
-					"default": ""
-				},
-				"agePrerollVideo": ""
-			}
-		},
-		{
-			"setNode": {
-				"id": "episode:harumaki25",
-				"version": "649f671be9bd0e2bf9fa18d73de07d57",
-				"type": "episode",
-				"number": 25,
-				"ageRate": 0,
-				"title": "Golden Ray",
-				"description": "",
-				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Golden%20Ray.moflex",
-					"fr": ""
-				},
-				"viewCount": 111,
-				"imageUrls": {
-					"default": ""
-				},
-				"agePrerollVideo": ""
-			}
-		},
 
 
 		{
@@ -1932,18 +1872,6 @@
 					},
 					{
 						"id": "episode:harumaki22",
-						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
-					},
-					{
-						"id": "episode:harumaki23",
-						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
-					},
-					{
-						"id": "episode:harumaki24",
-						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
-					},
-					{
-						"id": "episode:harumaki25",
 						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
 					}
 				],
