@@ -1442,7 +1442,7 @@
 				"number": 19,
 				"ageRate": 0,
 				"title": "Destiny",
-				"description": "No title translation for this one so I used Deepl lol",
+				"description": "",
 				"mediaUrls": {
 					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/%E9%81%8B%E5%91%BD.moflex",
 					"fr": ""
@@ -1464,7 +1464,7 @@
 				"title": "Fireflies Never Came",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia801507.us.archive.org/6/items/moflex_202204/Fireflies%20Never%20Came.moflex",
+					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Fireflies%20Never%20Came.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Fireflies-Never-Came.moflex"
 				},
 				"viewCount": 111,
@@ -1484,7 +1484,7 @@
 				"title": "Phantom",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia801507.us.archive.org/6/items/moflex_202204/Phantom.moflex",
+					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Phantom.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Phantom.moflex"
 				},
 				"viewCount": 111,
@@ -1504,7 +1504,7 @@
 				"title": "Moonlight",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Moonlight.moflex",
+					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/Moonlight.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
