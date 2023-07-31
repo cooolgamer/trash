@@ -546,7 +546,7 @@
 				"type": "episode",
 				"number": 1,
 				"ageRate": 0,
-				"title": "PIKMIN Short Movies - The Night Juicer",
+				"title": "The Night Juicer",
 				"description": "",
 				"mediaUrls": {
 					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/PIKMIN%20Short%20Movies%20-%20The%20Night%20Juicer.moflex"
@@ -565,7 +565,7 @@
 				"type": "episode",
 				"number": 2,
 				"ageRate": 0,
-				"title": "PIKMIN Short Movies - Treasure in a Bottle",
+				"title": "Treasure in a Bottle",
 				"description": "",
 				"mediaUrls": {
 					"en": "https://ia802705.us.archive.org/1/items/moflex_202204/PIKMIN%20Short%20Movies%20-%20Treasure%20in%20a%20Bottle.moflex"
@@ -584,7 +584,7 @@
 				"type": "episode",
 				"number": 3,
 				"ageRate": 0,
-				"title": "PIKMIN Short Movies - Occupational Hazards",
+				"title": "Occupational Hazards",
 				"description": "",
 				"mediaUrls": {
 					"en": "https://ia802705.us.archive.org/1/items/moflex_202204/PIKMIN%20Short%20Movies%20-%20Occupational%20Hazards.moflex"
@@ -722,7 +722,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun1.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun1.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun1.moflex"
 				},
 				"viewCount": 111,
@@ -742,7 +742,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun2.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun2.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun2.moflex"
 				},
 				"viewCount": 111,
@@ -762,7 +762,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun3.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun3.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun3.moflex"
 				},
 				"viewCount": 111,
@@ -782,7 +782,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun4.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun4.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun4.moflex"
 				},
 				"viewCount": 111,
@@ -802,7 +802,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun5.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun5.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun5.moflex"
 				},
 				"viewCount": 111,
@@ -822,7 +822,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun6.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun6.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun6.moflex"
 				},
 				"viewCount": 111,
@@ -842,7 +842,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun7.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun7.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun7.moflex"
 				},
 				"viewCount": 111,
@@ -862,7 +862,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun8.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun8.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun8.moflex"
 				},
 				"viewCount": 111,
@@ -882,7 +882,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun9.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun9.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun9.moflex"
 				},
 				"viewCount": 111,
@@ -902,7 +902,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun10.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun10.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun10.moflex"
 				},
 				"viewCount": 111,
@@ -922,7 +922,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun11.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun11.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun11.moflex"
 				},
 				"viewCount": 111,
@@ -942,7 +942,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun12.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun12.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun12.moflex"
 				},
 				"viewCount": 111,
@@ -962,7 +962,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun13.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun13.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun13.moflex"
 				},
 				"viewCount": 111,
@@ -982,7 +982,7 @@
 				"title": "Shaun the Sheep",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun14.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun14.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun14.moflex"
 				},
 				"viewCount": 111,
@@ -1002,7 +1002,7 @@
 				"title": "Shaun the Sheep 3D",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun3D.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun3D.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun3D.moflex"
 				},
 				"viewCount": 111,
@@ -1022,7 +1022,7 @@
 				"title": "Shaun the Sheep - Making of",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Shaun-",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Shaun-",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/shaun/Shaun-makingof.moflex"
 				},
 				"viewCount": 111,
@@ -1044,7 +1044,7 @@
 				"description": "",
 				"mediaUrls": {
 					"en": "http://nocf.linkv90.gq:9880/moflex/YTP/skycollab.moflex",
-					"fr": "https://ia802508.us.archive.org/14/items/moflex_202204/YTP%20-%20collab%20rebonjour%20youtube%20skycoffee.moflex"
+					"fr": "https://ia902705.us.archive.org/1/items/moflex_202204/YTP%20-%20collab%20rebonjour%20youtube%20skycoffee.moflex"
 				},
 				"viewCount": 111,
 				"imageUrls": {
@@ -1064,7 +1064,7 @@
 				"description": "",
 				"mediaUrls": {
 					"en": "http://nocf.linkv90.gq:9880/moflex/YTP/franklincollab.moflex",
-					"fr": "https://ia802508.us.archive.org/14/items/moflex_202204/YTP%20-%20Les%20fabuleuses%20Aventures%20de%20Franklin%20-%20la%20Franklin%20collab.moflex"
+					"fr": "https://ia902705.us.archive.org/1/items/moflex_202204/YTP%20-%20Les%20fabuleuses%20Aventures%20de%20Franklin%20-%20la%20Franklin%20collab.moflex"
 				},
 				"viewCount": 111,
 				"imageUrls": {
@@ -1084,7 +1084,7 @@
 				"title": "WhiteNoise",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/WhiteNoise.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/WhiteNoise.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1104,7 +1104,7 @@
 				"title": "The Rain Isn't Going Away",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/The%20Rain%20Isn%27t%20Going%20Away.moflex",
+					"en": "https://ia902508.us.archive.org/1/items/moflex_202204/The%20Rain%20Isn%27t%20Going%20Away.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1124,7 +1124,7 @@
 				"title": "Last Light",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Last%20Light.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Last%20Light.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1144,7 +1144,7 @@
 				"title": "Homesick Halley",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Homesick%20Halley.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Homesick%20Halley.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1164,7 +1164,7 @@
 				"title": "Dream Without A Radio Clock",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/A%20Dream%20Where%20the%20Clock%20is%20Missing.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/A%20Dream%20Where%20the%20Clock%20is%20Missing.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/A-Dream-Where-the-Clock-is-Missing.moflex"
 				},
 				"viewCount": 111,
@@ -1184,7 +1184,7 @@
 				"title": "I Lost",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/I%20Lost.moflex",
+					"en": "https://ia902508.us.archive.org/1/items/moflex_202204/I%20Lost.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1204,7 +1204,7 @@
 				"title": "We of the 22th Century",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/We%20of%20the%2022nd%20Century.moflex",
+					"en": "https://ia902508.us.archive.org/1/items/moflex_202204/We%20of%20the%2022nd%20Century.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1224,7 +1224,7 @@
 				"title": "August Rainy",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/August%20Rainy.moflex",
+					"en": "https://ia902508.us.archive.org/1/items/moflex_202204/August%20Rainy.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1244,7 +1244,7 @@
 				"title": "Dreamless Dreams",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Dreamless%20Dreams.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Dreamless%20Dreams.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Dreamless-Dreams.moflex"
 				},
 				"viewCount": 111,
@@ -1264,7 +1264,7 @@
 				"title": "Cobalt Memories",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Cobalt%20Memories.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Cobalt%20Memories.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Cobalt-Memories.moflex"
 				},
 				"viewCount": 111,
@@ -1284,7 +1284,7 @@
 				"title": "Melty Land Nightmare",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Melty%20Land%20Nightmare.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Melty%20Land%20Nightmare.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Melty-Land-Nightmare.moflex"
 				},
 				"viewCount": 111,
@@ -1304,7 +1304,7 @@
 				"title": "Aster",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Aster.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Aster.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Aster.moflex"
 				},
 				"viewCount": 111,
@@ -1324,7 +1324,7 @@
 				"title": "Seventina",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Seventina.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Seventina.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Seventina.moflex"
 				},
 				"viewCount": 111,
@@ -1344,7 +1344,7 @@
 				"title": "Steel Wonder",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Steel%20Wonder.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Steel%20Wonder.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Steel-Wonder.moflex"
 				},
 				"viewCount": 111,
@@ -1364,7 +1364,7 @@
 				"title": "Reunion",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/Reunion.moflex",
+					"en": "https://ia902508.us.archive.org/1/items/moflex_202204/Reunion.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Reunion.moflex"
 				},
 				"viewCount": 111,
@@ -1384,7 +1384,7 @@
 				"title": "The Promise",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/The%20Promise.moflex",
+					"en": "https://ia902508.us.archive.org/1/items/moflex_202204/The%20Promise.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/The-Promise.moflex"
 				},
 				"viewCount": 111,
@@ -1404,7 +1404,7 @@
 				"title": "If I could become a Comet",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/If%20I%20could%20become%20a%20comet.moflex",
+					"en": "https://ia902508.us.archive.org/1/items/moflex_202204/If%20I%20could%20become%20a%20comet.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/If-I-could-become-a-comet.moflex"
 				},
 				"viewCount": 111,
@@ -1424,7 +1424,7 @@
 				"title": "The Third Heart",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/The%20Third%20Heart.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/The%20Third%20Heart.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/The-Third-Heart.moflex"
 				},
 				"viewCount": 111,
@@ -1444,7 +1444,7 @@
 				"title": "Destiny",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/%E9%81%8B%E5%91%BD.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/%E9%81%8B%E5%91%BD.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1464,7 +1464,7 @@
 				"title": "Fireflies Never Came",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Fireflies%20Never%20Came.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Fireflies%20Never%20Came.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Fireflies-Never-Came.moflex"
 				},
 				"viewCount": 111,
@@ -1484,7 +1484,7 @@
 				"title": "Phantom",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Phantom.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Phantom.moflex",
 					"fr": "http://nocf.linkv90.gq:9880/moflex/HarumakiGohan/Phantom.moflex"
 				},
 				"viewCount": 111,
@@ -1504,7 +1504,7 @@
 				"title": "Moonlight",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/Moonlight.moflex",
+					"en": "https://ia902508.us.archive.org/1/items/moflex_202204/Moonlight.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1524,7 +1524,7 @@
 				"title": "Mikage's Diary",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Mikage%27s%20Diary.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Mikage%27s%20Diary.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1544,7 +1544,7 @@
 				"title": "Diner Bell",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia902508.us.archive.org/14/items/moflex_202204/Dinner%20Bell.moflex",
+					"en": "https://ia902508.us.archive.org/1/items/moflex_202204/Dinner%20Bell.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1564,7 +1564,7 @@
 				"title": "Golden Ray",
 				"description": "",
 				"mediaUrls": {
-					"en": "https://ia802508.us.archive.org/14/items/moflex_202204/Golden%20Ray.moflex",
+					"en": "https://ia902705.us.archive.org/1/items/moflex_202204/Golden%20Ray.moflex",
 					"fr": ""
 				},
 				"viewCount": 111,
@@ -1580,7 +1580,7 @@
 			"setNode": {
 				"id": "channel:pikmin",
 				"type": "channel",
-				"title": "Pikmin short movies",
+				"title": "PIKMIN Short Movies",
 				"eshopLinks": "",
 				"imageUrls": {
 					"default": ""
